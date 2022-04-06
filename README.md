@@ -11,8 +11,11 @@
   
 # Screenshots :
 
+<img src = 'https://github.com/mharrish7/Attendence_recorder/blob/main/screenshots/1.JPG?raw=true' />
+<img src = 'https://github.com/mharrish7/Attendence_recorder/blob/main/screenshots/2.JPG?raw=true' />
+<img src = 'https://github.com/mharrish7/Attendence_recorder/blob/main/screenshots/3.JPG?raw=true' />
 
-<img src = '' />
+
 
 
 
